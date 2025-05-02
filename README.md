@@ -13,5 +13,5 @@ Nurse test result entry and reporting
 **Project Report**:
 
 You can view the complete project report here:
-[View Project Report](./Project_Report.pdf)
+[View Project Report](./[Project_Report.pdf](https://github.com/KartheekRedrowthu/Hospital_Management_System/blob/main/DBMS%20PROJECT%20REPORT.pdf))
 
